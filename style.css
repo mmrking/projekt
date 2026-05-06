@@ -1,0 +1,17 @@
+body {
+  display: flex;
+  flex-direction: column;
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px 15px;
+  text-align: center;
+}
+
+div {
+  width: 200px;
+  padding-top: 15px;
+}
+
+button {
+    margin-top: 15px;
+}
